@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\ivan\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): warning C4101: minval: неиспользованная локальная переменная
+c:\users\ivan\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): warning C4101: maxval: неиспользованная локальная переменная
+c:\users\ivan\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(27): warning C4129: *: неизвестная escape-последовательность
+  ConsoleApplication1.vcxproj -> C:\Users\Ivan\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Ivan\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb (Full PDB)
